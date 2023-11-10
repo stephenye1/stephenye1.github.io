@@ -8,7 +8,7 @@ body {
   margin: 0;
 }
 header, footer {
-  background-color: #ffa500;
+  background-color: #e63946;
   text-align: left;
 /*  min-width: 500px; */
 }
@@ -18,7 +18,7 @@ header, footer {
   min-width: 500px;
 } */
 header {
-  font-family: Work Sans;
+  font-family: 'Roboto', sans-serif;
   color: #fff;
   min-height: 100vh;
   display: flex;
@@ -48,7 +48,8 @@ main {
 }
 
 h1 {
-  font-family: Poppins;
+  
+  font-family: 'Roboto', sans-serif;
   font-size: calc(1em + 3vw);
   padding-bottom: .67em;
   border-bottom: 1px solid;
@@ -56,7 +57,7 @@ h1 {
 }
 
 h2 {
-  font-family: Poppins;
+  font-family: 'Poppins', sans-serif;
   font-size: 18px;
   font-weight: 600;
   letter-spacing: 0.3px;
@@ -80,7 +81,8 @@ img {
 .bio {
 color: #ffffff;
 font-size: 24px;
-font-family: 'Work Sans';
+font-family: 'Poppins', sans-serif;
+
 }
 
 .buttonBox {
@@ -101,7 +103,7 @@ font-family: 'Work Sans';
 }
 
 .myButton:hover {
-    background-color:#e69708;
+    background-color:#e63946;
 }
 
 .myButton:active {
@@ -131,7 +133,7 @@ font-family: 'Work Sans';
 
 .mins {
   display: inline-block;
-  font-family: Poppins;
+  font-family: Rancho effect;
   font-size: 14px;
   font-weight: 500;
   letter-spacing: 0.3px;
@@ -142,7 +144,7 @@ font-family: 'Work Sans';
 }
 
 .description {
-  font-family: Work Sans;
+  font-family: Tangerine;
   font-size: 14px;
   font-weight: 300;
   line-height: 1.29;
